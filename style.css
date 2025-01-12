@@ -27,16 +27,14 @@ h3 {
   text-align: center;
 }
 
-div1 {
-  color: #B8E0FF;
-  font-family: monospace;
-  font-size: 17px;
-  margin-left: auto;
-  margin-right: auto;
-  padding-top: 50px;
-  padding-right: 50px;
-  padding-bottom: 50px;
-  padding-left: 50px;
+div {
+    color: #B8E0FF;
+    font-family: monospace;
+    font-size: 17px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-right: 200px;
+    padding-left: 200px;
 }
 
 button {
