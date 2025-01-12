@@ -45,5 +45,6 @@ button {
   margin-right: auto;
   font-family: monospace;
   font-size: 20px;
+  text-align:center;
   color: #212957;
 }
