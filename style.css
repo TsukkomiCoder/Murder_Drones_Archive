@@ -1,0 +1,46 @@
+body {
+  background-color: #212957;
+}
+
+main {
+  background-color: #212957;
+}
+
+h1 {
+  color: #B8E0FF;
+  font-family: monospace;
+  font-size: 30px;
+  text-align: center;
+}
+
+h2 {
+  color: #B8E0FF;
+  font-family: monospace;
+  font-size: 24px;
+  text-align: center;
+}
+
+h3 {
+  color: #B8E0FF;
+  font-family: monospace;
+  font-size: 20px;
+  text-align: center;
+}
+
+div1 {
+  color: #B8E0FF;
+  font-family: monospace;
+  font-size: 17px;
+  padding-top: 50px;
+  padding-right: 50px;
+  padding-bottom: 50px;
+  padding-left: 50px;
+}
+
+button {
+  background-color: #B8E0FF;
+  float: center;
+  font-family: monospace;
+  font-size: 20px;
+  color: #212957;
+}
