@@ -31,6 +31,8 @@ div1 {
   color: #B8E0FF;
   font-family: monospace;
   font-size: 17px;
+  margin-left: auto;
+  margin-right: auto;
   padding-top: 50px;
   padding-right: 50px;
   padding-bottom: 50px;
@@ -39,7 +41,8 @@ div1 {
 
 button {
   background-color: #B8E0FF;
-  float: center;
+  margin-left: auto;
+  margin-right: auto;
   font-family: monospace;
   font-size: 20px;
   color: #212957;
