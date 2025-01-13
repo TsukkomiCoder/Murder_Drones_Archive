@@ -55,12 +55,15 @@ button {
 }
 
 video {
-  width: 100%;
+  display: flex;
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 img {
   display: flex;
-  width: 100%;
+  width: 60%;
   margin-left: auto;
   margin-right: auto;
 }
