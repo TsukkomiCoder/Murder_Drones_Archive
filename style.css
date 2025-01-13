@@ -27,6 +27,13 @@ h3 {
   text-align: center;
 }
 
+h4 {
+    color: #B8E0FF;
+    font-family: monospace;
+    font-size: 15px;
+    text-align: center;
+}
+
 div {
     color: #B8E0FF;
     font-family: monospace;
